@@ -1,6 +1,8 @@
 # deeplearning
 Deep Learning with OpenCV
 
+https://docs.opencv.org/master/d2/d58/tutorial_table_of_content_dnn.html
+
 
 # env setup
 
